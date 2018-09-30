@@ -7,7 +7,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 ## Projects:
 
 
-### [Optimalization analysis with Home Credit Data](https://github.com/ksulima/Home_Credit)
+### [Automated Feature Engineering and parallel computing with Dask](https://github.com/ksulima/Home_Credit)
 
 * Point A.
 * Point B.
