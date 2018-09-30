@@ -11,3 +11,4 @@ This is a repository of the side projects I worked on or currently working on. T
 * Point B.
 * Point C.
 * **Keywords**(Python, Dask, AWS)
+<img src="https://github.com/ksulima/Home_Credit/blob/master/images/dask_board.PNG" width="500">
