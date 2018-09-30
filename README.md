@@ -5,7 +5,7 @@ This is a repository of the side projects I worked on or currently working on. T
 ## Projects:
 
 
-### [Home Credit](https://github.com/ksulima/Home_Credit/blob/master/README.md)
+### [Optimalization analysis with Home Credit Data](https://github.com/ksulima/Home_Credit)
 
 * Point A.
 * Point B.
