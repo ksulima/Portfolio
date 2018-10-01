@@ -12,8 +12,14 @@ Enjoy reading and if you have some questions, you can contact with me through my
 * use Deep Feature Synthesis to generate set of features in a automated way. 
 * parallelize computation with Dask.
 * hyperparameter tunning of xgboost.
-* **Keywords**(Featuretools, Python, Dask, AWS)
+* **Keywords** (Featuretools, Python, Dask, AWS)
 <img src="https://github.com/ksulima/Home_Credit/blob/master/images/dask_board.PNG" width="500">
 <img src="https://github.com/ksulima/Home_Credit/blob/master/images/auc.png" width="500" height="350">
 
----
+
+### [Pipelines](https://github.com/ksulima/Pipelines)
+
+* my tutorial to explain concept of pipelines with practical examples in python and scikit-learn library.
+* **Keywords** (pipeline, scikit-learn, python, custom transformers)
+<img src="https://github.com/ksulima/Pipelines/blob/master/pipeline.jpg" width="500">
+
