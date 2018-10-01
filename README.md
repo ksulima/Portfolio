@@ -9,11 +9,11 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 ### [Automated Feature Engineering and parallel computing with Dask](https://github.com/ksulima/Home_Credit)
 
-* Point A.
-* Point B.
-* Point C.
-* **Keywords**(Python, Dask, AWS)
+* use Deep Feature Synthesis to generate set of features in a automated way. 
+* use Dask to parallelize computation of feature matrix.
+* hyperparameter tunning of xgboost.
+* **Keywords**(Featuretools, Python, Dask, AWS)
 <img src="https://github.com/ksulima/Home_Credit/blob/master/images/dask_board.PNG" width="500">
-
+<img src="https://github.com/ksulima/Home_Credit/blob/master/images/auc.png" width="500" height="350">
 
 ---
