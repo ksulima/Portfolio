@@ -17,6 +17,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 <img src="https://github.com/ksulima/Home_Credit/blob/master/images/auc.png" width="500" height="350">
 
 
+---
 ### [Pipelines](https://github.com/ksulima/Pipelines)
 
 * my tutorial to explain concept of pipelines with practical examples in python and scikit-learn library.
@@ -24,6 +25,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 <img src="https://github.com/ksulima/Pipelines/blob/master/pipeline.jpg" width="500">
 
 
+---
 ### [Time Series analysis](https://github.com/ksulima/Time_Series)
 
 * Forecasting the time series using ARIMA.
