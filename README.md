@@ -23,3 +23,9 @@ Enjoy reading and if you have some questions, you can contact with me through my
 * **Keywords** (pipeline, scikit-learn, python, custom transformers)
 <img src="https://github.com/ksulima/Pipelines/blob/master/pipeline.jpg" width="500">
 
+
+### [Time Series analysis](https://github.com/ksulima/Time_Series)
+
+* Forecasting the time series using ARIMA.
+* **Keywords** (time series, ARIMA, python)
+
