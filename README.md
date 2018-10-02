@@ -28,4 +28,4 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 * Forecasting the time series using ARIMA.
 * **Keywords** (time series, ARIMA, python)
-
+<img src="https://github.com/ksulima/Time_Series/blob/master/images/plot.png" width="550" height="300">
