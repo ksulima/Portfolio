@@ -27,7 +27,8 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 ---
 ### [Time Series analysis](https://github.com/ksulima/Time_Series)
-
-* Forecasting the time series using ARIMA.
-* **Keywords** (time series, ARIMA, python)
+* Check some general assumption about data.
+* Use Dickey-Fuller Test to test statonaryand forecast the time series using ARIMA.
+* Introduce Prophet library.
+* **Keywords** (time series, ARIMA, Prophet, python)
 <img src="https://github.com/ksulima/Time_Series/blob/master/images/plot.png" width="550" height="300">
