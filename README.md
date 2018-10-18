@@ -6,6 +6,17 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 ## Projects:
 
+### [Age Detection with Convolution Neaural Network on small dataset size](https://github.com/ksulima/Age_Detection_Convolutional_NN)
+* Image Preprocessing using Keras ImageDataGenerator.
+* Reference CNN model from the scratch.
+* Using data augmentation to mitigate overfitting.
+* Using some publicly available CNN architectures pre-trained on ImageNet dataset
+* **Keywords** (Keras, ConvNet, VGG16, image classification, python)
+<img src="https://github.com/ksulima/Age_Detection_Convolutional_NN/blob/master/images/dataset_intro.PNG" width="550" height="250">
+
+<img src="https://github.com/ksulima/Age_Detection_Convolutional_NN/blob/master/images/vgg16.png" width="550" height="250">
+
+---
 
 ### [Automated Feature Engineering and parallel computing with Dask](https://github.com/ksulima/Home_Credit)
 
@@ -35,11 +46,4 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 
 ---
-#### (in progress)
-### [Age Detection with Convolution Neaural Network on small dataset size](https://github.com/ksulima/Age_Detection_Convolutional_NN)
-* Image Preprocessing using Keras ImageDataGenerator.
-* Reference CNN model from the scratch.
-* Using data augmentation to mitigate overfitting.
-* Using some publicly available CNN architectures pre-trained on ImageNet dataset
-* **Keywords** (Keras, ConvNet, VGG16, image classification, python)
-<img src="https://github.com/ksulima/Age_Detection_Convolutional_NN/blob/master/images/dataset_intro.PNG" width="550" height="250">
+
