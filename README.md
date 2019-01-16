@@ -17,16 +17,27 @@ Nowadays most of the research in deep learning field is focused on unstructed da
 **Dataset description**
 
 I use a dataset from Kaggle competiton. You can download all provided data together with external datasets put by participants from this [link.](http://files.fast.ai/part2/lesson14/rossmann.tgz)
-Since data cleaning and feature engineering is not my main goal in this project, I based this part of implementation from 'Practical Deep Learning for Coders' and fast.ai library by Jeremy Howard. You can find details [here](https://www.fast.ai/2018/04/29/categorical-embeddings/)
+Since data cleaning and feature engineering is not my main goal in this project, I based this part on implementation from 'Practical Deep Learning for Coders' and fast.ai library by Jeremy Howard. You can find details [here](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 
+**Project Steps:**
 
+- Exporatory data summary
+- Data Cleaning
+- Feature engineering
+- Fast-check random forest model
+- Create embeddings for catergorical variables
+- Build final neural networks to predict sales
+
+**Keywords** (Keras, Embeddings, Kaggle competiton, Python)
+
+---
 
 ### [Age Detection with Convolution Neaural Network on small dataset size](https://github.com/ksulima/Age_Detection_Convolutional_NN)
 * Image Preprocessing using Keras ImageDataGenerator.
 * Reference CNN model from the scratch.
 * Using data augmentation to mitigate overfitting.
 * Using some publicly available CNN architectures pre-trained on ImageNet dataset
-* **Keywords** (Keras, ConvNet, VGG16, image classification, python)
+* **Keywords** (keras, ConvNet, VGG16, image classification, python)
 <img src="https://github.com/ksulima/Age_Detection_Convolutional_NN/blob/master/images/dataset_intro.PNG" width="550" height="250">
 
 <img src="https://github.com/ksulima/Age_Detection_Convolutional_NN/blob/master/images/vgg16.png" width="550" height="250">
@@ -44,6 +55,7 @@ Since data cleaning and feature engineering is not my main goal in this project,
 
 
 ---
+
 ### [Pipelines](https://github.com/ksulima/Pipelines)
 
 * my tutorial to explain concept of pipelines with practical examples in python and scikit-learn library.
