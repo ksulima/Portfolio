@@ -6,6 +6,11 @@ Enjoy reading and if you have some questions, you can contact with me through my
 
 ## Projects:
 
+### [Unsupervised methods to NLP Polish language (In progress)](https://github.com/ksulima/Unsupervised-method-to-NPL-Polish-language)
+Click title link to see the code. Description in progress.
+
+
+
 ### [Neural networks with Entity Embeddings applied to structured, time series data](https://github.com/ksulima/Entity_Embedding_Structured_Data)
 
 In this project my goal is to use neural networks to structured, time series data. I use Keras to implement method "Entity Embeddings" originally described by Cheng Guo and Felix Berkhahn in a [paper.](https://arxiv.org/abs/1604.06737)
