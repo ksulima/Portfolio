@@ -10,6 +10,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 Click title link to see the code. Description in progress.
 
 
+---
 
 ### [Neural networks with Entity Embeddings applied to structured, time series data](https://github.com/ksulima/Entity_Embedding_Structured_Data)
 
