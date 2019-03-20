@@ -10,6 +10,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 * Unsupervised Word Segmentation into Subword Units.
 * GloVe embeddings trained on our own corpus
 * Visualization in tensorboard.
+
 **Keywords** (keras, subwords-nmt, GloVe, tensorboard, python)
 <img src="https://github.com/ksulima/Unsupervised-method-to-NPL-Polish-language/blob/master/images/t_sne.png" width="550" height="400">
 
