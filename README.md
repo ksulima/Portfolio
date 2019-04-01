@@ -16,6 +16,7 @@ Enjoy reading and if you have some questions, you can contact with me through my
 <img src="https://github.com/ksulima/Unsupervised-method-to-NPL-Polish-language/blob/master/images/embeddings_2.PNG" width="550" height="400">
 
 <img src="https://github.com/ksulima/Unsupervised-method-to-NPL-Polish-language/blob/master/images/roc_baseline_subwords.png" width="550" height="400">
+
 ---
 
 ### [Neural networks with Entity Embeddings applied to structured, time series data](https://github.com/ksulima/Entity_Embedding_Structured_Data)
